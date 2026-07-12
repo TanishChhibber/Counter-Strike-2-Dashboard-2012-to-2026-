@@ -5,10 +5,10 @@ An interactive <b>Power BI dashboard</b> built to analyze the competitive Counte
 </p>
 
 <p align="center">
-<img src="counter.strike.png" alt="Counter-Strike 2 Dashboard" width="1000"/>
+  <img src="Dataset and Resources/Resources/counter.strike.png"
+       alt="Counter-Strike 2 Dashboard"
+       width="1000">
 </p>
-
----
 
 ## 📌 Project Objective
 
