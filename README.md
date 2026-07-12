@@ -5,7 +5,7 @@ An interactive <b>Power BI dashboard</b> built to analyze the competitive Counte
 </p>
 
 <p align="center">
-<img src="images/dashboard.png" alt="Counter-Strike 2 Dashboard" width="1000"/>
+<img src="Counter Striker.png" alt="Counter-Strike 2 Dashboard" width="1000"/>
 </p>
 
 ---
